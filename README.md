@@ -1,6 +1,6 @@
 # Frontend Mentor - Stats preview card component
 
-## URL:[stats preview card component]{https://he-zekiah.github.io/stats-preview-card-component/}
+ ## URL: [stats-preview-code-component-design](https://he-zekiah.github.io/stats-preview-code-component/)
 
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
 
